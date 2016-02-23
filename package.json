@@ -1,0 +1,31 @@
+{
+  "name": "libpcap-01",
+  "version": "1.0.0",
+  "description": "Libpcap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node实战"
+  ],
+  "author": "miracle",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "body-parser": "^1.14.1",
+    "bower": "^1.5.3",
+    "cheerio": "^0.19.0",
+    "eventproxy": "^0.3.4",
+    "express": "^4.13.3",
+    "iconv-lite": "^0.4.13",
+    "jade": "^1.11.0",
+    "moment": "^2.10.6",
+    "mongoose": "^4.2.2",
+    "request": "^2.67.0",
+    "superagent": "^1.6.1",
+    "superagent-charset": "^0.1.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}

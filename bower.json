@@ -1,0 +1,25 @@
+{
+  "name": "libpcap-01",
+  "description": "libpcap",
+  "main": "app.js",
+  "authors": [
+    "miracle"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node实战"
+  ],
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
